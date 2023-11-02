@@ -1,5 +1,7 @@
 # AI_Phase1
 Artificial Intelligence(Sentimental Analysis for marketing )phase-1
+
+SENTIMENT  ANALYSIS FOR MARKETING
 To perform  sentiment analysis of US Airline dataset using the pre-traind BERT model and to analyze the  feedbacks received 
 from the customers to study the distribution of sentiments across different categories and also try to find out the reasons
 for the sentiments to derive useful insights about the airlines.
